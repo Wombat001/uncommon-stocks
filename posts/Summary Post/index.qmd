@@ -1,0 +1,9 @@
+---
+title: "Aftermath: How it would all end"
+author: "Tay C-W"
+date: "2025-03-10"
+categories: [news, code, analysis]
+image: "image.jpg"
+---
+
+#### How It All Started
