@@ -2,11 +2,11 @@
   {
     "listing": "/index.html",
     "items": [
-      "/posts/Summary Post/index.html",
-      "/posts/Third Post/index.html",
-      "/posts/Second Post/index.html",
       "/posts/First Post/index.html",
-      "/posts/welcome/index.html"
+      "/posts/welcome/index.html",
+      "/posts/Second Post/index.html",
+      "/posts/Third Post/index.html",
+      "/posts/Summary Post/index.html"
     ]
   }
 ]
