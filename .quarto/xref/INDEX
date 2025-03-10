@@ -13,5 +13,8 @@
   },
   "posts/First Post/index.qmd": {
     "index.html": "c20c9f09"
+  },
+  "posts/Second Post/index.qmd": {
+    "index.html": "5527a039"
   }
 }
