@@ -1,2 +1,2 @@
 # uncommon-stocks
- for stock analysis
+ For stock analysis
