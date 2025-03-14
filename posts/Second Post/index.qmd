@@ -7,11 +7,7 @@ image: "image.jpg"
 ---
 
 #### Starting Robinhood
-![](./image01.png)      
-
-#### The COVID years 
-
-#### More on Robinhood  
+![](./image01.png)       
 
 #### Robinhood  
 - Rising from the shadows of the economic crisis that unfolded in the 2010s, 
