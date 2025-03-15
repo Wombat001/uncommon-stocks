@@ -7,5 +7,56 @@ image: "image.jpg"
 ---
 
 #### Futu in Hong Kong
+##### Key Competitive Insights
+<img src="image01.png" alt="drawing" width="720" height="480"/>     
+
+###### Regional Focus Drives Performance Patterns
+
+1. APAC-Focused Platforms:
+    - Both Futu Holdings (Moomoo) and UP Fintech (Tiger) significantly outperformed traditional brokerages
+    - Achieved 552% and 389% growth respectively since Q1 2020
+    - Both companies benefited from the rapid growth of retail investing in APAC markets
+2. Established Global Players:
+    - Interactive Brokers and Charles Schwab showed more modest growth (225% and 168%)
+    - Demonstrated greater stability with lower volatility metrics
+    - Their diversified global presence provided resilience during market downturns
+3. US-Focused Platforms:
+    - Robinhood has struggled since its IPO in July 2021, currently at 45% of its initial value
+    - Higher regulatory scrutiny in the US market created headwinds
+
+###### Competitive Differentiation
+1. Moomoo vs. Tiger (Primary APAC Competitor):
+    - Moomoo has maintained better value retention (552% vs. 389%) since Q1 2020
+    - Both experienced similar boom-bust cycles, but Moomoo demonstrated stronger recovery
+    - Moomoo's technology-focused approach and expansion strategy appear to be providing a competitive edge
+2. Moomoo vs. Global Players:
+    - Moomoo shows higher growth potential but with significantly higher volatility
+    - Global players like Interactive Brokers offer more stability but lower upside
+    - Moomoo's focus on specific APAC markets creates both opportunity and concentration risk
+
+##### Market Cycle Analysis
+1. Retail Trading Boom (2020-2021):
+    - All platforms saw significant valuation increases
+    - APAC-focused platforms experienced the most dramatic growth
+    - Moomoo reached 1,336% of its Q1 2020 value by Q1 2021
+2. Correction Phase (Mid-2021):
+    - Chinese regulatory crackdowns disproportionately affected APAC-focused platforms
+    - Moomoo and Tiger experienced steeper declines than global competitors
+3. Stabilization and Recovery (2022-2024):
+    - Moomoo has shown stronger recovery compared to Tiger
+    - Both APAC platforms have maintained significant outperformance versus traditional brokerages
+
+##### Investment Implications
+1. Moomoo's Competitive Position:
+    - Strongest performer in the APAC-focused segment
+    - Successfully navigated regulatory challenges better than direct competitors
+    - Growth trajectory suggests continued market share gains in the region
+2. Forward-Looking Considerations:
+    - Moomoo's continued expansion into new APAC markets offers growth potential
+    - Higher volatility suggests need for careful timing and risk management
+    - Regulatory developments in China and other APAC markets remain critical factors
+
+
+
       
 
