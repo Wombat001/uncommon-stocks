@@ -15,7 +15,7 @@ In its early days, Moomoo:
 - **2019**: received broker-dealer registration from the U.S. Financial Industry Regulatory Authority (FINRA)
 - **2019**: established a strategic partnership with Interactive Brokers to provide clearing services       
 
-In this period, the company stood out by by focusing on cross-border trading capabilities, particularly for Chinese investors interested in U.S. markets, and building technological infrastructure that rivaled institutional-grade trading platforms such as **Webull**, **E-Trade**, **Charles Schwab**, etc. 
+In this period, the company stood out by by focusing on cross-border trading capabilities, particularly for Chinese investors interested in U.S. markets, and building technological infrastructure that rivaled institutional-grade trading platforms such as **Webull**, **E-Trade**, **Charles Schwab**, etc.        
 
 ##### **Public Listing and Global Expansion (2019-2021)**
 
