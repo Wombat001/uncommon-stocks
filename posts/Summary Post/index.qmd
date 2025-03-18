@@ -6,4 +6,19 @@ categories: [news, code, analysis]
 image: "image.jpg"
 ---
 
-#### How It All Started
+#### Part 1
+With the election and inauguration of Donald Trump as the 47th president of the United States, Robinhood saw its full year earnings going through the roof since shedding 80% of its market capitalization in the wake of its IPO. Stock performance exceeded more than 400% and exceeding that of its peers. Most recently in February and March 2025, it was trading 40% higher than its IPO price, and a market value approaching $50 billion.       
+
+Although still comparatively young compared to platforms such as *Interactive Brokers* and *Charles Schwab*, what started out as a *meme-stock* gig has quickly matured into a more comprehensive financial services platform, expanding its new product offerings to include fractional shares, crypto-currencies among others.              
+
+<img src="image01.png" alt="drawing" width="720" height="480"/>         
+
+This has no doubt increased its appeal among its core user base of young male investors with a strong inclination for exotic and highly lucrative yet volatile assets. 
+
+<img src="image02.png" alt="drawing" width="720" height="480"/>         
+
+<img src="image03.png" alt="drawing" width="720" height="480"/>         
+
+
+
+#### Part 2
