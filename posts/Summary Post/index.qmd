@@ -9,7 +9,7 @@ image: "image.jpg"
 #### Part 1
 With the election and inauguration of Donald Trump as the 47th president of the United States, Robinhood saw its full year earnings going through the roof since shedding 80% of its market capitalization in the wake of its IPO. Stock performance exceeded more than 400% and exceeding that of its peers. Most recently in February and March 2025, it was trading 40% higher than its IPO price, and a market value approaching $50 billion.       
 
-Although still comparatively young compared to platforms such as *Interactive Brokers* and *Charles Schwab*, what started out as a *meme-stock* gig has quickly matured into a more comprehensive financial services platform, expanding its new product offerings to include fractional shares, crypto-currencies among others.              
+Although still comparatively young compared to platforms such as *Interactive Brokers* and *Charles Schwab*, from what started out as a *meme-stock* gig it has rapidly grown into a more mature financial services platform to include new product offerings such as fractional shares, crypto-currencies, and futures trading as well as enhanced features like a desktop app for more dedicated traders and a credit card as part of its gold services .              
 
 <img src="image01.png" alt="drawing" width="720" height="480"/>         
 
