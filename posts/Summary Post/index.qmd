@@ -7,7 +7,7 @@ image: "image.jpg"
 ---
 
 #### Part 1
-With the election and inauguration of Donald Trump as the 47th president of the United States, Robinhood saw its full year earnings going through the roof since shedding 80% of its market capitalization in the wake of its IPO. Stock performance exceeded more than 400% and exceeding that of its peers. Most recently in February and March 2025, it was trading 40% higher than its IPO price, and a market value approaching $50 billion.       
+With the election and inauguration of Donald Trump as the 47th president of the United States, **Robinhood** saw its full year earnings going through the roof since shedding 80% of its market capitalization in the wake of its IPO. Stock performance exceeded more than 400% and exceeding that of its peers. Most recently in February and March 2025, it was trading 40% higher than its IPO price, and a market value approaching $50 billion.       
 
 Although still comparatively young compared to platforms such as *Interactive Brokers* and *Charles Schwab*, from what started out as a *meme-stock* gig it has rapidly grown into a more mature financial services platform to include new product offerings such as fractional shares, crypto-currencies, and futures trading as well as enhanced features like a desktop app for more dedicated traders and a credit card as part of its gold services .              
 
@@ -24,29 +24,15 @@ This has no doubt increased its appeal among its core user base of young male in
 #### Part 2
 
 
-	Please use the sharing tools found via the share button at the top or side of articles. Copying articles to share with others is a breach of FT.com T&Cs and Copyright Policy. Email licensing@ft.com to buy additional rights. Subscribers may share up to 10 or 20 articles per month using the gift article service. More information can be found at https://www.ft.com/tour.
-	https://www.ft.com/content/72c164f8-2c25-4499-9bc2-81053278084e
-
-	Jennifer Hughes in New York
-
-Published
-FEB 11 2025
-
-12
-Print this page
-Unlock the Editor’s Digest for free
-Roula Khalaf, Editor of the FT, selects her favourite stories in this weekly newsletter.
-
-
-When Robinhood reports full-year earnings on Wednesday, it will mark a coming of age for the engine of 2021’s fleeting meme stock mania.
+When **Robinhood** reports full-year earnings on Wednesday, it will mark a coming of age for the engine of 2021’s fleeting meme stock mania.
 
 Analysts anticipate fourth-quarter profits of more than double any previous quarter off the back of a blowout period for rivals. The online broker is expected to report its first-ever annual profit, more than three years after it first went public.
 
 After shedding 80 per cent of its market capitalisation in the wake of its IPO, its shares have more than quadrupled over the past year, far outpacing rivals such as Interactive Brokers and Charles Schwab. It now trades 40 per cent above its IPO price, with a market value closing in on $50bn.
 
-“The maturation of Robinhood has coincided with the maturation of the retail investor,” said Patrick Moley, an analyst at Piper Sandler. “They’ve been working on their product road map, so as retail trading has accelerated, they had these . . . pieces in place.”
+“The maturation of **Robinhood** has coincided with the maturation of the retail investor,” said Patrick Moley, an analyst at Piper Sandler. “They’ve been working on their product road map, so as retail trading has accelerated, they had these . . . pieces in place.”
 
-Robinhood has evolved from an app that sprayed digital confetti when customers made their first trade to one that aims to serve as a broader financial services platform.
+**Robinhood** has evolved from an app that sprayed digital confetti when customers made their first trade to one that aims to serve as a broader financial services platform.
 
 Its founder Vlad Tenev has set ambitious goals for the broker’s expansion. “We expect to get to number one in options before 2027, number one in equities before 2029,” he said at the company’s first investor day in December. “This is just one piece of a much larger picture.”
 
@@ -57,7 +43,7 @@ Last year, it added futures trading and a desktop app for more serious traders, 
 
 “The card is the one that generates a lot of envy and interest around the office,” said Benjamin Budish, an analyst at Barclays who switched to an “overweight” rating on the stock in September.
 
-A Robinhood Gold card currently offers an industry-leading 3 per cent cashback on all purchases, and select clients can apply for a solid gold version.
+A **Robinhood** Gold card currently offers an industry-leading 3 per cent cashback on all purchases, and select clients can apply for a solid gold version.
 
 “We’re not yet seeing it driving a ton of revenues, but that wait-list is a lot of people who can become fee-paying clients,” Budish added. “With that, maybe they become equity clients — they maybe trade options. And then this platform approach starts to make more and more sense.”
 
@@ -67,28 +53,37 @@ For the quarter it is about to report, analysts expect $535mn in transaction-rel
 But this time revenues would be driven not by stocks — or even options trading, typically the largest source of income — but a surge in crypto trading income to $320mn from $61mn in the previous three months, after Donald Trump’s election as US president in November raised hopes for a crypto-friendly administration. 
 
 
-The potential for a sustained boom in crypto-related trading has been one of the factors driving the increase in Robinhood’s shares. But the gains have outstripped those of crypto specialist Coinbase. In the three months since the US elections, Coinbase’s shares have jumped almost 50 per cent, giving it a market capitalisation of $70bn. Robinhood’s shares have more than doubled.
+The potential for a sustained boom in crypto-related trading has been one of the factors driving the increase in **Robinhood**’s shares. But the gains have outstripped those of crypto specialist Coinbase. In the three months since the US elections, Coinbase’s shares have jumped almost 50 per cent, giving it a market capitalisation of $70bn. **Robinhood**’s shares have more than doubled.
 
-“They’ve been very conservative with the number of tokens they offer — it's about 20 and Coinbase has more than 250,” said Moley of Piper Sandler. “Robinhood has the ability to scale their crypto business while also having other asset classes. You can trade crypto, Nvidia options and the latest meme stock. That’s a model that I think is going to be successful for them over the next several years.”
+A prospective boom in crypto trading, no doubt thanks to president Trump, among other reasons has been one of the factors underpinning price growth in **Robinhood**'s shares, even outclimbing that of Coinbase. Shares of Coinbase jumped almost 50%, making it worth $70bn in the market, while shares of **Robinhood** increased more than 2 times in as many months since the presidential elections in the US.
 
-In June, Robinhood paid $200mn for crypto exchange Bitstamp, a deal that could help it launch related services such as staking, a popular practice where coin owners agree to use their holdings to help verify other transactions, earning a return from which a broker takes a commission.
+Although offering only a tenth of the tokens made available by coinbase, **Robinhood**'s strategy seems to resonate more with the moderate investors who are able to buy options of major Nasdaq companies, trade the latest in trend meme stock, in addition to the most popular crypto assets in the market. "That's a model that I think is going to be successful for them over the next several years" opined Moley of Piper Sandler.
 
-“We expect Robinhood to be the biggest beneficiary of crypto regulatory tailwinds,” said Gautam Chhugani, an analyst at Bernstein.
+In addition, **Robinhood** also acquired the crypto exchange Bitstamp,  in a deal that would allow it to launch staking service, a practice to enable coin owners to earn a return from verifying other transactions through their holdings.
+
+**Robinhood** is expected to double down in its crypto assets offerings as well as services, potentially reaping the benefits of crypto regulatory changes from the White House. 
 
 
-Tenev : ‘We expect to get to number one in options before 2027, number one in equities before 2029’ © Jose Sarmento Matos/Bloomberg
-Robinhood remains a comparative minnow in the broking world, however with $195bn of assets under custody as of November. Interactive Brokers, its fiercest rival for online active traders, held $591bn as of January.
+“They’ve been very conservative with the number of tokens they offer — it's about 20 and Coinbase has more than 250,” said Moley of Piper Sandler. “**Robinhood** has the ability to scale their crypto business while also having other asset classes. You can trade crypto, Nvidia options and the latest meme stock. That’s a model that I think is going to be successful for them over the next several years.”
 
-Brokers also face competition from far bigger wealth management players who can offer trading alongside a greater array of savings products and investment opportunities. Fidelity and Charles Schwab have some $15tn and $10tn in client assets, respectively.
+In June, **Robinhood** paid $200mn for crypto exchange Bitstamp, a deal that could help it launch related services such as staking, a popular practice where coin owners agree to use their holdings to help verify other transactions, earning a return from which a broker takes a commission.
 
-That has raised fears that Robinhood’s clients, who tend to be younger, will “graduate” to bigger rivals with more to offer as they grow older and wealthier. On an earnings call last month, Schwab’s new chief executive, Rick Wurster, emphasised that a third of its new retail investors were under 30, and half were under 40.
+#### Headwinds
+
+Young startups like **Robinhood** and **Moomoo** remain relative small fries in the space of trading and brokering where financial muscle and industrial connections are key elements to survive. For example **Interactive Brokers**, commonly seen as the most direct competitor to both platforms held close to 3 times more assets under custody than **Robinhood** and purportedly at least 10 times more than **Moomoo**  
+
+In general, retail trading platforms face greater competitive pressure from larger wealth management rivals such as Fidelity, Charles Schwab that have the wherewithal to not offer a much greater range of investing and trading products and opportunities, they also possess requisite financial buffer and market mass to withstand higher volatility and black swan events.        
+
+This means platform companies have to remain highly nimble and innovative, including putting up volatile and riskier assets, and products in order to retain client interest while attempting to build up the user base and assets under custody to fend off bigger rivals and withstand shocks to the markets 
+
+That has raised fears that **Robinhood**’s clients, who tend to be younger, will “graduate” to bigger rivals with more to offer as they grow older and wealthier. On an earnings call last month, Schwab’s new chief executive, Rick Wurster, emphasised that a third of its new retail investors were under 30, and half were under 40.
 
 Recommended
 
-LexRobinhood
-What does Robinhood want to be when it grows up? Premium content
+Lex**Robinhood**
+What does **Robinhood** want to be when it grows up? Premium content
 
-While there are a multitude of financial products Robinhood could target to take on its more established competitors and lock investors into its platform — from investment advice and selling mutual funds, to the ability to host 401(k) plans, a key form of US pension management — the gulf between the rivals is large.
+While there are a multitude of financial products **Robinhood** could target to take on its more established competitors and lock investors into its platform — from investment advice and selling mutual funds, to the ability to host 401(k) plans, a key form of US pension management — the gulf between the rivals is large.
 
 “Maybe it’s an unfair comparison, because Schwab and Fidelity are very mature platforms [and] the path to product parity with someone like a Schwab is very, very long,” said Barclays’ Budish.
 
@@ -99,7 +94,7 @@ Reuse this content(opens in new window)CommentsJump to comments section
 MARKET DATA
 
 
-Robinhood Markets Inc
+**Robinhood** Markets Inc
 Equity | HOOD:NSQ −34.87%
 Was this data useful?
 Yes
@@ -115,33 +110,33 @@ Financial services
 Add to myFT
 Retail trading
 Add to myFT
-Robinhood
+**Robinhood**
 Add to myFT
 Vladimir Tenev
 Add to myFT
-Latest on Robinhood
+Latest on **Robinhood**
 FT News Briefing podcast10 min listen
-Has meme-stock kid Robinhood grown up?
+Has meme-stock kid **Robinhood** grown up?
 
 US financial regulation
-Robinhood to pay biggest fine among more than $100mn imposed by SEC
+**Robinhood** to pay biggest fine among more than $100mn imposed by SEC
 
-Robinhood
-Robinhood to launch margin trading in UK expansion drive
+**Robinhood**
+**Robinhood** to launch margin trading in UK expansion drive
 
-LexRobinhood
-What does Robinhood want to be when it grows up? Premium content
-
-Cryptocurrencies
-Robinhood agrees to buy Bitstamp crypto exchange for $200mn
-
-LexRobinhood
-Who is afraid of the SEC? Not Robinhood investors Premium content
+Lex**Robinhood**
+What does **Robinhood** want to be when it grows up? Premium content
 
 Cryptocurrencies
-Robinhood warns of SEC lawsuit threat over crypto business
+**Robinhood** agrees to buy Bitstamp crypto exchange for $200mn
 
-Robinhood
-Beyond memes: Robinhood seeks to broaden its appeal
+Lex**Robinhood**
+Who is afraid of the SEC? Not **Robinhood** investors Premium content
+
+Cryptocurrencies
+**Robinhood** warns of SEC lawsuit threat over crypto business
+
+**Robinhood**
+Beyond memes: **Robinhood** seeks to broaden its appeal
 
 Comments
