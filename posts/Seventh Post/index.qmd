@@ -92,7 +92,7 @@ Effect of Growth Rate on Revenue Over 5 Years
 
 Key Insights:
 - A higher growth rate leads to exponential gains over time.
-- Investors can assess long-term revenue expectations and adjust strategies accordingly
+- Investors can assess long-term revenue expectations and adjust strategies accordingly         
 
 Technology in Financial Modelling
 
