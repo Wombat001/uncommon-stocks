@@ -6,7 +6,7 @@ categories: [news, code, analysis]
 image: "image.jpg"
 ---
 
-#### Part 1
+#### Part 1 - The changing market conditions
 With the election and inauguration of Donald Trump as the 47th president of the United States, **Robinhood** saw its full year earnings going through the roof since shedding 80% of its market capitalization in the wake of its IPO. Stock performance exceeded more than 400% and exceeding that of its peers. Most recently in February and March 2025, it was trading 40% higher than its IPO price, and a market value approaching $50 billion.       
 
 Although still comparatively young compared to platforms such as *Interactive Brokers* and *Charles Schwab*, from what started out as a *meme-stock* gig it has rapidly grown into a more mature financial services platform to include new product offerings such as fractional shares, crypto-currencies, and futures trading as well as enhanced features like a desktop app for more dedicated traders and a credit card as part of its gold services .              
@@ -21,7 +21,7 @@ This has no doubt increased its appeal among its core user base of young male in
 
 
 
-#### Part 2
+#### Part 2 - Future Trends and Performance
 
 
 When **Robinhood** reports full-year earnings on Wednesday, it will mark a coming of age for the engine of 2021’s fleeting meme stock mania.
@@ -64,17 +64,19 @@ In addition, **Robinhood** also acquired the crypto exchange Bitstamp for $200mn
 **Robinhood** is expected to double down in its crypto assets offerings as well as services, potentially reaping the benefits of crypto regulatory changes from the White House. 
 
 
-#### Headwinds
+#### Part 3 - Headwinds
 
 Young startups like **Robinhood** and **Moomoo** remain relative small fries in the space of trading and brokering where financial muscle and industrial connections are key elements to survive. For example **Interactive Brokers**, commonly seen as the most direct competitor to both platforms held close to 3 times more assets under custody than **Robinhood** and purportedly at least 10 times more than **Moomoo**  
 
 In general, retail trading platforms face greater competitive pressure from larger wealth management rivals such as Fidelity, Charles Schwab that have the wherewithal to not only offer a much greater range of investment products and opportunities, but  also possess the requisite financial buffer and market mass to withstand higher volatility and black swan events.        
 
-This means platform companies have to remain highly nimble and innovative, including putting up volatile and riskier assets, and products in order to retain client interest while attempting to build up the user base and assets under custody to fend off bigger rivals and withstand shocks to the markets 
+This means platform companies have to remain highly nimble and innovative, including putting up ever more volatile and riskier assets, and products in order to retain client interest while attempting to build up the user base and assets under custody to fend off bigger rivals and withstand shocks to the markets 
 
-Over the next years, **Robinhood**’s and **Moomoo's** traditional clients, the younger and more impulsive demographic that trades on social media vibes, might “graduate” to more stable portfolios with a longer investment horizon. This has been happening for major platforms new retail investors were under 30 were making up less than those under 40.
+Over the next years, **Robinhood**’s and **Moomoo's** traditional clients, the younger and more impulsive demographic that trades on social media vibes, might “graduate” to more stable portfolios with a longer investment horizon. This has been happening for major platforms where new retail investors there are under 30 are increasingly making up more than those under 40, and are expected to increase 3 fold in the next decade. Ultimately, the trend would stabilize, exibiting a balance of traders opting for conventional and newer platforms. This is however a disadvantage to the up-coming startups that rely on being *novel* with a sense of rebelliousness and catering to the ever-evolving tastes of the youthful demographic. A fixed and progressively less mobile market segment could be fatal to their user acquisition and uptake numbers. Furthermore, for newborn platforms that rely primarily on funding to finance their operations, a decreasing user base could dampen investor interest and slow their growth to eventual profitability. 
 
-Regulatory environment also plays a major role in the expansion of trading platforms. Regulatory and political scrutiny in China from 2021 has caused financial players to experience turbulence, from the stopped listing plans of **Ant Financial** to the tightened control of money flow by major banks have put to effect greater self-censorship by companies and accelerated their moves to expand overseas. The worsening political landscape on the mainland coupled with a sharply intensifying trade war between China and the US would force these startups to more neutral regions where the fight over market share and to grow user base would only compound.  
+Regulatory environment also plays a major role in the expansion of trading platforms. Regulatory and political scrutiny in China from 2021 has caused financial players to experience increased turbulence, from the halted listing plans of **Ant Financial** to the tightened control of money flow by major banks have put a damper to plans in-country by companies and accelerated their moves to expand overseas. The worsening political landscape on the mainland coupled with a sharply intensifying trade war between China and the US would force these startups to more political neutral regions where the fight over market share and the need to grow user base would only compound.  
+
+For Robinhood's and Moomoo's continued growth and stock performance, both have chosen to increase the type of product offerings such as factional shares, options, and cryptos - where it has a distinctive advantage among younger investors, as well as seeking growth in emergent markets in APAC where under-30s make up a proportionately greater size of the user base. An additional service that is rapidly garnering attention and greater interest is the potential of cross-border trading and settlement where an investor could invest in foreign assets while opting to settle in the local currency, reducing forex risk by a large extent. This not only opens up more mature markets in Europe and the US to Asian investors, it also allows these platforms to act as non-traditional settlement and accounting holding houses, and creating a secondary source of financial income. The downside is the greater regulatory scrutiny, not only from the financial regulators of the home base but also in jurisdications where the platforms are commercially active; something traditional brokerages try to avoid.  
 
 
 
