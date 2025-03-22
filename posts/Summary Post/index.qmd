@@ -24,9 +24,19 @@ This has no doubt increased its appeal among its core user base of young male in
 #### Part 2 - Future Trends and Performance
 
 
+<img src="image04.png" alt="drawing" width="720" height="420"/> 
+
 When **Robinhood** reports full-year earnings on Wednesday, it will mark a coming of age for the engine of 2021’s fleeting meme stock mania.
 
-Analysts anticipate fourth-quarter profits of more than double any previous quarter off the back of a blowout period for rivals. The online broker is expected to report its first-ever annual profit, more than three years after it first went public.
+Analysts anticipate fourth-quarter profits of more than double any previous quarter off the back of a blowout period for rivals. The online broker is expected to report its first-ever annual profit, more than three years after it first went public.        
+
+
+<img src="image05.png" alt="drawing" width="720" height="420"/>         
+
+
+<img src="image06.png" alt="drawing" width="720" height="420"/>          
+
+
 
 After shedding 80 per cent of its market capitalisation in the wake of its IPO, its shares have more than quadrupled over the past year, far outpacing rivals such as Interactive Brokers and Charles Schwab. It now trades 40 per cent above its IPO price, with a market value closing in on $50bn.
 
@@ -50,10 +60,7 @@ A **Robinhood** Gold card currently offers an industry-leading 3 per cent cashba
 
 For the quarter it is about to report, analysts expect $535mn in transaction-related revenues, according to LSEG data — a number that would finally surpass the meme-mania peak.
 
-But this time revenues would be driven not by stocks — or even options trading, typically the largest source of income — but a surge in crypto trading income to $320mn from $61mn in the previous three months, after Donald Trump’s election as US president in November raised hopes for a crypto-friendly administration. 
-
-
-The potential for a sustained boom in crypto-related trading has been one of the factors driving the increase in **Robinhood**’s shares. But the gains have outstripped those of crypto specialist Coinbase. In the three months since the US elections, Coinbase’s shares have jumped almost 50 per cent, giving it a market capitalisation of $70bn. **Robinhood**’s shares have more than doubled.
+By now the primary revenue source would not be stock trading, or even options, hitherto the largest provider of income, but from a surge in crypto trading income from $61mn to $320mn, undoubtedly thanks to Trump's return to the White House as well as his crypto-friendly statements. 
 
 A prospective boom in crypto trading, no doubt thanks to president Trump, among other reasons has been one of the factors underpinning price growth in **Robinhood**'s shares, even outclimbing that of Coinbase. Shares of Coinbase jumped almost 50%, making it worth $70bn in the market, while shares of **Robinhood** increased more than 2 times in as many months since the presidential elections in the US.
 
@@ -76,7 +83,12 @@ Over the next years, **Robinhood**’s and **Moomoo's** traditional clients, the
 
 Regulatory environment also plays a major role in the expansion of trading platforms. Regulatory and political scrutiny in China from 2021 has caused financial players to experience increased turbulence, from the halted listing plans of **Ant Financial** to the tightened control of money flow by major banks have put a damper to plans in-country by companies and accelerated their moves to expand overseas. The worsening political landscape on the mainland coupled with a sharply intensifying trade war between China and the US would force these startups to more political neutral regions where the fight over market share and the need to grow user base would only compound.  
 
-For Robinhood's and Moomoo's continued growth and stock performance, both have chosen to increase the type of product offerings such as factional shares, options, and cryptos - where it has a distinctive advantage among younger investors, as well as seeking growth in emergent markets in APAC where under-30s make up a proportionately greater size of the user base. An additional service that is rapidly garnering attention and greater interest is the potential of cross-border trading and settlement where an investor could invest in foreign assets while opting to settle in the local currency, reducing forex risk by a large extent. This not only opens up more mature markets in Europe and the US to Asian investors, it also allows these platforms to act as non-traditional settlement and accounting holding houses, and creating a secondary source of financial income. The downside is the greater regulatory scrutiny, not only from the financial regulators of the home base but also in jurisdications where the platforms are commercially active; something traditional brokerages try to avoid.  
+For Robinhood's and Moomoo's continued growth and stock performance, both have chosen to increase the type of product offerings such as factional shares, options, and cryptos - where it has a distinctive advantage among younger investors, as well as seeking growth in emergent markets in APAC where under-30s make up a proportionately greater size of the user base. An additional service that is rapidly garnering attention and greater interest is the potential of cross-border trading and settlement where an investor could invest in foreign assets while opting to settle in the local currency, reducing forex risk by a large extent. This not only opens up more mature markets in Europe and the US to Asian investors, it also allows these platforms to act as non-traditional settlement and accounting holding houses, and creating a secondary source of financial income. The downside is the greater regulatory scrutiny, not only from the financial regulators of the home base but also in jurisdications where the platforms are commercially active; something traditional brokerages actively avoid.  
 
 
+#### References
+1. Robinhood Expects to Launch Crypto Products in Singapore in 2025, derived from [link](https://www.bloomberg.com/news/articles/2025-02-18/robinhood-expects-to-launch-crypto-products-in-singapore-in-2025)
 
+2. China Broker Futu Cuts 5% of Staff on Global Strategy Shift, derived from [link](https://www.bloomberg.com/news/articles/2024-11-21/hinese-broker-futu-cuts-5-of-staff-as-global-expansion-slows)       
+
+2. 
