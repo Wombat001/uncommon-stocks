@@ -1,6 +1,6 @@
 ---
 title: "DBS, a truly local bank"
-author: "The phantom investor "
+author: "Ng Wei Ling "
 date: "2025-03-19"
 categories: [news, code, analysis]
 image: "image.jpg"
