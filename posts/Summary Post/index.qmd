@@ -99,8 +99,6 @@ Moomoo's revenue model is strategically evolving:
 4. **Premium Service Upsell**: Leveraging technology advantage to create premium offerings
 5. **Wealth Management Expansion**: Beginning to monetize non-trading financial services
 
-This diversified approach has allowed Moomoo to maintain strong growth despite industry-wide pressure on trading commissions, positioning the company for sustainable long-term revenue expansion across the APAC region.
-
 Would you like me to provide more detailed analysis on any specific aspect of Moomoo's revenue model?
 
 
@@ -164,12 +162,12 @@ This means platform companies have to remain highly nimble and innovative, inclu
 Over the next years, **Robinhood**’s and **Moomoo's** traditional clients, the younger and more impulsive demographic that trades on social media vibes, might “graduate” to more stable portfolios with a longer investment horizon. This has been happening for major platforms where new retail investors there are under 30 are increasingly making up more than those under 40, and are expected to increase 3 fold in the next decade. Ultimately, the trend would stabilize, exibiting a balance of traders opting for conventional and newer platforms. This is however a disadvantage to the up-coming startups that rely on being *novel* with a sense of rebelliousness and catering to the ever-evolving tastes of the youthful demographic. A fixed and progressively less mobile market segment could be fatal to their user acquisition and uptake numbers. Furthermore, for newborn platforms that rely primarily on funding to finance their operations, a decreasing user base could dampen investor interest and slow their growth to eventual profitability. 
 
 Regulatory environment also plays a major role in the expansion of trading platforms. Regulatory and political scrutiny in China from 2021 has caused financial players to experience increased turbulence, from the halted listing plans of **Ant Financial** to the tightened control of money flow by major banks have put a damper to plans in-country by companies and accelerated their moves to expand overseas. The worsening political landscape on the mainland coupled with a sharply intensifying trade war between China and the US would force these startups to more political neutral regions where the fight over market share and the need to grow user base would only compound.  
-
-For Robinhood's and Moomoo's continued growth and stock performance, both have chosen to increase the type of product offerings such as factional shares, options, and cryptos - where it has a distinctive advantage among younger investors, as well as seeking growth in emergent markets in APAC where under-30s make up a proportionately greater size of the user base. An additional service that is rapidly garnering attention and greater interest is the potential of cross-border trading and settlement where an investor could invest in foreign assets while opting to settle in the local currency, reducing forex risk by a large extent. This not only opens up more mature markets in Europe and the US to Asian investors, it also allows these platforms to act as non-traditional settlement and accounting holding houses, and creating a secondary source of financial income. The downside is the greater regulatory scrutiny, not only from the financial regulators of the home base but also in jurisdications where the platforms are commercially active; something traditional brokerages actively avoid.  
-
+  
 #### Part 4 - Forward Strategies for Robinhood, Moomoo, and similar platforms
 
-Both **Robinhood** and **Moomoo** would experience substantial churn in their user base as already fickle investors get more expectant and transition to other platforms while recent and upcoming players compete for the increasingly saturated market segment, further adding pressure to their bottomline. Coincidentally the common strategy for either of them is some or all of the following:
+Both **Robinhood** and **Moomoo** would experience substantial churn in their user base as already fickle investors get more expectant and transition to other platforms while recent and upcoming players compete for the increasingly saturated market segment, further adding pressure to their bottomline. In order to sustain Robinhood's and Moomoo's continued growth and stock performance, both have chosen to increase the range of services by offering factional share trading, options, and cryptos - where it has a distinctive advantage among younger investors - and seeking growth in emergent markets in APAC where under-30s make up a proportionately greater size of the user base. An additional service that is rapidly garnering attention and greater interest is the potential of cross-border trading and settlement where an investor could invest in foreign assets while opting to settle in the local currency, therefore reducing forex risk by a large extent. This not only opens up more mature markets in Europe and the US to Asian investors, it also allows these platforms to act as non-traditional settlement and accounting holding houses,creating a secondary source of financial income. The downside to this is the greater regulatory scrutiny, not only from the financial regulators of the home base but also in jurisdications where the platforms are commercially active; something traditional brokerages actively avoid, but creates an opportunity for new players.          
+
+Coincidentally the common strategy for either of them is some or all of the following:
 
 1. **Reducing dependency on commission income** which currently makes up the majority of all revenue streams. 
 2. **Growing recurring revenue** by increasing the weight or moving to a subscription based model for its clients
@@ -178,7 +176,7 @@ Both **Robinhood** and **Moomoo** would experience substantial churn in their us
 5. **Offering new products and financial services** such as cryptos, wealth management, holding accounts, etc.
 6. **Exploring strategic partnerships** with other financial service companies to offer complementary services
 
-
+The change of focus would allow **Robinhood** and **Moomoo** to maintain a strong trajectory in the foreseeable future despite industry-wide pressure on trading commissions and market strewn with wannabes, positioning the companies for healthy long-term growth in the US and APAC markets.
 
 #### References
 1. Robinhood Expects to Launch Crypto Products in Singapore in 2025, derived from [link](https://www.bloomberg.com/news/articles/2025-02-18/robinhood-expects-to-launch-crypto-products-in-singapore-in-2025)
