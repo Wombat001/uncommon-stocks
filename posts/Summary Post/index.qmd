@@ -1,5 +1,5 @@
 ---
-title: "Aftermath: How it would all end"
+title: "Afterward: How it would develop"
 author: "Tay C-W"
 date: "2025-03-10"
 categories: [news, code, analysis]
@@ -21,7 +21,7 @@ This has no doubt increased its appeal among its core user base of young male in
 
 
 
-#### Part 2 - Future Trends and Performance
+#### Part 2 - Current Trends and Performance
 
 
 # How Moomoo Makes Money: Revenue Model Analysis
@@ -108,16 +108,6 @@ Would you like me to provide more detailed analysis on any specific aspect of Mo
 <img src="image04.png" alt="drawing" width="720" height="420"/> 
 
 
-Both **Robinhood** and **Moomoo** would experience churn in their user base as already fickle investors get more expectant and move to other platforms while recent and upcoming players compete for the same market segment, further adding pressure to their bottomline. Coincidentally the common strategy for either of them is some or all of the following:
-
-1. **Reducing dependency on commission income** which currently makes up the majority of all revenue streams. 
-2. **Growing recurring revenue** by increasing the weight or moving to a subscription based model for its clients
-3. **Diversifying markets** by expanding into new emergent geographies, preferrably with young demographics hungry to invest
-4. **Investing in innovation & automation** to drive down manpower costs
-5. **Offering new products and financial services** such as cryptos, wealth management, holding accounts, etc.
-6. **Exploring strategic partnerships** with other financial service companies to offer complementary services
-
-
 When **Robinhood** reports full-year earnings on Wednesday, it will mark a coming of age for the engine of 2021’s fleeting meme stock mania.
 
 Analysts anticipate fourth-quarter profits of more than double any previous quarter off the back of a blowout period for rivals. The online broker is expected to report its first-ever annual profit, more than three years after it first went public.        
@@ -163,7 +153,7 @@ In addition, **Robinhood** also acquired the crypto exchange Bitstamp for $200mn
 **Robinhood** is expected to double down in its crypto assets offerings as well as services, potentially reaping the benefits of crypto regulatory changes from the White House. 
 
 
-#### Part 3 - Headwinds
+#### Part 3 - Headwinds and Challenges in the immediate and intermediate Horizon
 
 Young startups like **Robinhood** and **Moomoo** remain relative small fries in the space of trading and brokering where financial muscle and industrial connections are key elements to survive. For example **Interactive Brokers**, commonly seen as the most direct competitor to both platforms held close to 3 times more assets under custody than **Robinhood** and purportedly at least 10 times more than **Moomoo**  
 
@@ -176,6 +166,18 @@ Over the next years, **Robinhood**’s and **Moomoo's** traditional clients, the
 Regulatory environment also plays a major role in the expansion of trading platforms. Regulatory and political scrutiny in China from 2021 has caused financial players to experience increased turbulence, from the halted listing plans of **Ant Financial** to the tightened control of money flow by major banks have put a damper to plans in-country by companies and accelerated their moves to expand overseas. The worsening political landscape on the mainland coupled with a sharply intensifying trade war between China and the US would force these startups to more political neutral regions where the fight over market share and the need to grow user base would only compound.  
 
 For Robinhood's and Moomoo's continued growth and stock performance, both have chosen to increase the type of product offerings such as factional shares, options, and cryptos - where it has a distinctive advantage among younger investors, as well as seeking growth in emergent markets in APAC where under-30s make up a proportionately greater size of the user base. An additional service that is rapidly garnering attention and greater interest is the potential of cross-border trading and settlement where an investor could invest in foreign assets while opting to settle in the local currency, reducing forex risk by a large extent. This not only opens up more mature markets in Europe and the US to Asian investors, it also allows these platforms to act as non-traditional settlement and accounting holding houses, and creating a secondary source of financial income. The downside is the greater regulatory scrutiny, not only from the financial regulators of the home base but also in jurisdications where the platforms are commercially active; something traditional brokerages actively avoid.  
+
+#### Part 4 - Forward Strategies for Robinhood, Moomoo, and similar platforms
+
+Both **Robinhood** and **Moomoo** would experience substantial churn in their user base as already fickle investors get more expectant and transition to other platforms while recent and upcoming players compete for the increasingly saturated market segment, further adding pressure to their bottomline. Coincidentally the common strategy for either of them is some or all of the following:
+
+1. **Reducing dependency on commission income** which currently makes up the majority of all revenue streams. 
+2. **Growing recurring revenue** by increasing the weight or moving to a subscription based model for its clients
+3. **Diversifying markets** by expanding into new emergent geographies, preferrably with young demographics hungry to invest
+4. **Investing in innovation & automation** to drive down manpower costs
+5. **Offering new products and financial services** such as cryptos, wealth management, holding accounts, etc.
+6. **Exploring strategic partnerships** with other financial service companies to offer complementary services
+
 
 
 #### References
