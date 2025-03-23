@@ -7,21 +7,27 @@ image: "image.jpg"
 ---
 
 #### Part 1 - The changing market conditions
+
 With the election and inauguration of Donald Trump as the 47th president of the United States, **Robinhood** saw its full year earnings going through the roof since shedding 80% of its market capitalization in the wake of its IPO. Stock performance exceeded more than 400% and exceeding that of its peers. Most recently in February and March 2025, it was trading 40% higher than its IPO price, and a market value approaching $50 billion.       
 
-Although still comparatively young compared to platforms such as *Interactive Brokers* and *Charles Schwab*, from what started out as a *meme-stock* gig it has rapidly grown into a more mature financial services platform to include new product offerings such as fractional shares, crypto-currencies, and futures trading as well as enhanced features like a desktop app for more dedicated traders and a credit card as part of its gold services .              
+On the other side of the Pacific, recent Chinese economic & market policies have forced many tech companies to reduce headcount in favor of protecting existing market share while raising the workload of current staff, which caused great disenchentment in the job market and a relook at the traditional value system in the Chinese society. Subsequently, the overall growth in user base for **Moomoo** reached 37 million long-term users in Q3 of 2024 with a **Compound Aggregate Growth Rate** of 84% since 2018     
 
-<img src="image01.png" alt="drawing" width="720" height="480"/>         
+Although still comparatively young compared to platforms such as *Interactive Brokers* and *Charles Schwab*, the two platforms, one of which started out as a *meme-stock* gig and the other as a platform for young Asian men living in their parents' place - a type commonly known as Otaku (オタク) in Japanese and Zhainan (宅男) in Mandarin - to earn a side income and occupy their time, have rapidly grown into a more mature financial services platform to include new product offerings such as fractional shares, crypto-currencies, and futures trading as well as enhanced features like a desktop app for more dedicated traders and a credit card as part of its gold services.              
 
-This has no doubt increased its appeal among its core user base of young male investors with a strong inclination for exotic and highly lucrative yet volatile assets. 
-
-<img src="image02.png" alt="drawing" width="720" height="480"/>         
-
-<img src="image03.png" alt="drawing" width="720" height="480"/>         
-
+This has no doubt increased its appeal among its core user base of young male investors with a strong inclination for exotic and highly lucrative yet volatile assets, although whether the allure is sustainable depends on how the market winds blow and the subsequent reactions of both start-ups. 
 
 
 #### Part 2 - Current Trends and Performance
+
+<img src="image01.png" alt="drawing" width="720" height="480"/>      
+
+
+<img src="image02.png" alt="drawing" width="720" height="480"/>         
+
+
+<img src="image03.png" alt="drawing" width="720" height="480"/>      
+
+
 
 
 # How Moomoo Makes Money: Revenue Model Analysis
@@ -89,17 +95,6 @@ Several important revenue metrics highlight Moomoo's monetization efficiency:
 - Daily average revenue per active user of $8.20
 - Interest revenue representing 3.2% of AUM
 - Transaction revenue as percentage of trading volume declining slightly as other revenue streams grow
-
-## Strategic Revenue Evolution
-
-Moomoo's revenue model is strategically evolving:
-1. **Reduced Commission Dependency**: Gradually decreasing reliance on trading commissions
-2. **Growing Recurring Revenue**: Increasing focus on subscription services and interest income
-3. **Geographic Diversification**: Expanding into new markets to reduce concentration risk
-4. **Premium Service Upsell**: Leveraging technology advantage to create premium offerings
-5. **Wealth Management Expansion**: Beginning to monetize non-trading financial services
-
-Would you like me to provide more detailed analysis on any specific aspect of Moomoo's revenue model?
 
 
 
