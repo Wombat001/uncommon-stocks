@@ -13,14 +13,27 @@ In the world of finance, predicting the future isn’t about guesswork—it’s 
 
 #### Wish
 
-A pro forma financial statement is a financial report prepared based on assumptions or hypothetical events rather than actual past transactions. These statements help in assessing:
-- New product launches – Estimating revenue and expenses
-- Business expansion – Financial impact of entering new markets
-- Debt or equity changes – Understanding new financing effects
-- Mergers and acquisitions – Projecting combined financial outcomes (Harvard Business School Online, n.d.).
+An ecommerce company that doesn't have any warehouses, logistics, simply surviving on sales commissions would create certain limitations.
 
-These tools help businesses visualize future financial performance and make informed decisions.
 
+```{ojs}
+athletes = FileAttachment("athletes.csv").csv({typed: true})
+
+Plot.plot({
+  grid: true,
+  facet: {
+    data: athletes,
+    y: "Gender"
+  },
+  marks: [
+    Plot.rectY(
+      athletes, 
+      Plot.binX({y: "count"}, {x: "Height (cm)", fill: "Gender"})
+    ),
+    Plot.ruleY([0])
+  ]
+})
+```
 
 #### Conclusions
  
