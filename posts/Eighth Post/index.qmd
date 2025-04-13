@@ -4,6 +4,10 @@ author: "C-W Tay"
 date: "2025-04-13"
 categories: [news, code, analysis]
 image: "image.jpg"
+format:
+  html:
+    code-fold: true
+    code-tools: true
 ---
 
 #### Dropshipping
