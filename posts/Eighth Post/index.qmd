@@ -18,7 +18,31 @@ In the world of finance, predicting the future isn’t about guesswork—it’s 
 #### Wish
 
 An ecommerce company that doesn't have any warehouses, logistics, simply surviving on sales commissions would create certain limitations.
+Wish got around investors' concerns by focusing on top-line growth, assuring the market that revenue would come naturally with the passing of time.
 
+Has to make up for its poor unit economics with sheer volume 
+
+//Need to find out how to do a simple bin chart on observable
+```{ojs}
+op_income = FileAttachment("Op Income.csv").csv({typed: true})
+
+Plot.plot({
+  x: {axis: null},
+  y: {tickFormat: "s", grid: true},
+  color: {scheme: "spectral", legend: true},
+  marks: [
+    Plot.barY(
+      op_income,
+      {
+        x: "Year",
+        y: "Operating Income(USD millions)",
+        fill: "Company"
+      } 
+    ),
+    Plot.ruleY([0])
+  ]
+})
+```
 
 ```{ojs}
 athletes = FileAttachment("athletes.csv").csv({typed: true})
