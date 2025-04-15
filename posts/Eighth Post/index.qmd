@@ -22,7 +22,62 @@ Wish got around investors' concerns by focusing on top-line growth, assuring the
 
 Has to make up for its poor unit economics with sheer volume 
 
-//Need to find out how to do a simple bin chart on observable
+- strategy is to shorten delivery time and provide door-to-door service for high paying, high volume customers
+- This leads to higher inventory costs where fulfillment centers have to store more SKUs in order to meet on-demand purchases instead of shipping merchandise from overseas
+- Aliexpress basically operates the same business model and like Wish has not turned a profit from its ecommerce business
+- This is not a problem for Alibaba b/c it enjoys a positive cashflow and healthy revenue from its other income streams
+- One of Temu's strategies was to entice buyers to pull their family members and friends together to make quantity purchases that would increase the volume and value in a single transaction and collectively unlock greater savings.
+- Use data to shape product recommendation and personalize shopping experience, to build their own warehouse and merchandise centers, to build out their logistic and supply chain network, and also their eco-system of merchants, and even to selling their own private-label goods on the platform. 
+- 
+
+```{ojs}
+pdd = FileAttachment("pinduoduo.csv").csv({typed: true})
+
+Plot.plot({
+  x: {axis: "bottom",
+    label: "Financial Years (Quarter)",
+    labelAnchor: "center",
+    tickFormat: "",
+    tickRotate: -30
+  },
+  y: {tickFormat: "s", grid: true},
+  color: {scheme: "spectral", legend: true},
+  marks: [
+    Plot.barY(
+      pdd,
+      {
+        x: "Year",
+        y: "Financials (RMB million)",
+        fill: "Financial Type",
+        width: 50,
+        stroke: "none",
+        text: ({value}) => value.toFixed(2),
+        position: "end",
+        textAnchor: "middle",
+        textBaseline: "middle",
+        style:{
+          fontSize: "8px",
+          fill: "white", // Set text color
+          fontWeight: "bold" // Make text bold
+        }
+      } 
+    ),
+    Plot.text(
+      pdd,
+      {
+        x: "Year",
+        y: "Financials (RMB million)",
+        text: "Financials (RMB million)",
+        dy: -8,
+        fontSize: 6,
+        fontWeight: "bold"
+      }
+    ),
+    Plot.ruleY([0])
+  ]
+})
+```
+
 ```{ojs}
 op_income = FileAttachment("Op Income.csv").csv({typed: true})
 
@@ -30,7 +85,7 @@ Plot.plot({
   x: {axis: "bottom",
     label: "Financial Years",
     labelAnchor: "center",
-    tickFormat: "+",
+    tickFormat: "",
     tickRotate: -30
   },
   y: {tickFormat: "s", grid: true},
