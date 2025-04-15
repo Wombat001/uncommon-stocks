@@ -27,7 +27,12 @@ Has to make up for its poor unit economics with sheer volume
 op_income = FileAttachment("Op Income.csv").csv({typed: true})
 
 Plot.plot({
-  x: {axis: null},
+  x: {axis: "bottom",
+    label: "Financial Years",
+    labelAnchor: "center",
+    tickFormat: "+",
+    tickRotate: -30
+  },
   y: {tickFormat: "s", grid: true},
   color: {scheme: "spectral", legend: true},
   marks: [
@@ -36,8 +41,30 @@ Plot.plot({
       {
         x: "Year",
         y: "Operating Income(USD millions)",
-        fill: "Company"
+        fill: "Company",
+        width: 50,
+        stroke: "none",
+        text: ({value}) => value.toFixed(2),
+        position: "end",
+        textAnchor: "middle",
+        textBaseline: "middle",
+        style:{
+          fontSize: "8px",
+          fill: "white", // Set text color
+          fontWeight: "bold" // Make text bold
+        }
       } 
+    ),
+    Plot.text(
+      op_income,
+      {
+        x: "Year",
+        y: "Operating Income(USD millions)",
+        text: "Operating Income(USD millions)",
+        dy: -8,
+        fontSize: 6,
+        fontWeight: "bold"
+      }
     ),
     Plot.ruleY([0])
   ]
