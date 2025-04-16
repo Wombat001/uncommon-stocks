@@ -27,8 +27,47 @@ Has to make up for its poor unit economics with sheer volume
 - Aliexpress basically operates the same business model and like Wish has not turned a profit from its ecommerce business
 - This is not a problem for Alibaba b/c it enjoys a positive cashflow and healthy revenue from its other income streams
 - One of Temu's strategies was to entice buyers to pull their family members and friends together to make quantity purchases that would increase the volume and value in a single transaction and collectively unlock greater savings.
-- Use data to shape product recommendation and personalize shopping experience, to build their own warehouse and merchandise centers, to build out their logistic and supply chain network, and also their eco-system of merchants, and even to selling their own private-label goods on the platform. 
-- 
+- Use data to shape product recommendation and personalize shopping experience, to build their own warehouse and merchandise centers, to build out their logistic and supply chain network, and also their eco-system of merchants, and even to selling their own private-label goods on the platform.
+- To ask PDD to compete in the US market against the likes of Amazon and eBay is ask it to commit commercial seppuku because its fundamental model and core group purchase approach would find it hard to gain any purchase in a market where shopping is predominantly seen and felt as an individual activity (Then how did Groupon take off and eventually died?)   
+- However PDD has make it's greatest gain in the US stock market where seemingly unstoppable rise and endless growth has given the impression of a rapidly ascending rocketship on its way to the moon
+
+```{ojs}
+xpdd = FileAttachment("pinduoduo.csv").csv({typed: true})
+
+Plot.plot({
+  x: {axis: null,
+    label: "Financial Years (Quarter)",
+    labelAnchor: "center",
+    tickRotate: -30
+  },
+  y: {tickFormat: "s", grid: true},
+  color: {scheme: "spectral", legend: true},
+  marks: [
+    Plot.barY(
+      xpdd,
+      {
+        x: "Financial Type",
+        y: "Financials (RMB million)",
+        fill: "Financial Type",
+        fx: "Year",
+        sort: {x: null, color: null, fx: {value: "-y", reduce: "sum"}}
+      } 
+    ),
+    Plot.text(
+      xpdd,
+      {
+        x: "Year",
+        y: "Financials (RMB million)",
+        text: "Financials (RMB million)",
+        dy: -8,
+        fontSize: 6,
+        fontWeight: "bold"
+      }
+    ),
+    Plot.ruleY([0])
+  ]
+})
+```
 
 ```{ojs}
 pdd = FileAttachment("pinduoduo.csv").csv({typed: true})
